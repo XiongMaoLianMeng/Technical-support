@@ -1,1 +1,5 @@
-# Technical-support
+熊猫联盟-技术支持
+
+你对熊猫联盟有什么建议或者功能上的疑问，你可以联系我们
+
+我们的邮箱:kntxlg@sina.com
